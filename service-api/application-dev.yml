@@ -4,7 +4,7 @@ project:
 spring:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.0.105:3306/mall?useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    url: jdbc:mysql://192.168.0.109:3306/mall?useSSL=false&useUnicode=true&characterEncoding=UTF-8
     username: root
     password: wang123
     hikari:
